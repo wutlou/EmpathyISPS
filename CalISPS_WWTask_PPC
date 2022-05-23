@@ -1,6 +1,6 @@
 % CalISPS_WWTask_PPC.m
 %
-% Calcaulte inter-subject phase synchronization using PPC approach
+% Estimate the inter-subject phase synchronization during a empathy task using PPC approach
 %
 % Wutao LOU
 % <wlou@cuhk.edu.hk>
